@@ -17,14 +17,15 @@ You need to have JDK installed with a preferred compiler (I'm using IntelliJ Ide
 
 ### Requirements/Tasks that can be performed
 
-* R1 - View a list of all the songs in the library and see information about each song, including the album on which it appears and the artist(s) who performed it.
+* R1 - View the Database (All Songs, Albums, Artists, Relationship between Each of them is Shown)
 * R1.1 - View a list of all the artists in the library.
 * R1.2 - View a list of all the albums in the library.
-* R3 - Edit any information in the library. This includes changing the title of songs and albums and changing the names of artists.
+* R3 - Edit Songs, Artists or Albums
 * R4 - View a list of all the songs by a particular artist.
 * R5 - View a list of all the songs on a particular album.
 * R6 - Add songs to and remove them from the library.
 * R7 - Add artists to and remove them from songs.
 * R8 - Add songs to and remove them from albums.
+* R9 - Play a Song
 
 ### Feel free to use this Food App and make changes as you wish. Thanks and Happy Coding!
