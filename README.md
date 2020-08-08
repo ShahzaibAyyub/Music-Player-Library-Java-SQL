@@ -1,6 +1,6 @@
 # Java Music Library Player with SQL Database
 
-![alt-text](https://github.com/ShahzaibAyyub/Online-Training-Courses-CRUD-Portal-Asp.Net-MVC/blob/master/Online%20course%20ASP.Net.gif)
+![alt-text](https://github.com/ShahzaibAyyub/Music-Player-Library-Java-SQL/blob/master/MusicApp-Java.gif)
 
 This is a Java Music Library App with SQL Database that perform various CRUD operations on SQL DB and plays Music. User can perform various tasks shown in the requirements below. 
 
