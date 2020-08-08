@@ -1,0 +1,75 @@
+# SONGS
+The Girl is Mine
+D:\IntelliJ IDEA\AP\MusicApp\src\1.mp3
+1
+Billie Jean
+D:\IntelliJ IDEA\AP\MusicApp\src\2.mp3
+2
+P.Y.T. (Pretty Young Thing)
+D:\IntelliJ IDEA\AP\MusicApp\src\3.mp3
+3
+Blue Bossa
+D:\IntelliJ IDEA\AP\MusicApp\src\4.mp3
+1
+The Lion Sleeps Tonight
+D:\IntelliJ IDEA\AP\MusicApp\src\5.mp3
+2
+I Surrender
+D:\IntelliJ IDEA\AP\MusicApp\src\6.mp3
+2
+Play that Funky Music
+D:\IntelliJ IDEA\AP\MusicApp\src\7.mp3
+1
+Go West
+D:\IntelliJ IDEA\AP\MusicApp\src\8.mp3
+7
+Mystery Track of Mystery
+D:\IntelliJ IDEA\AP\MusicApp\src\9.mp3
+10
+# ARTISTS
+Michael Jackson
+Joe Henderson
+The Tokens
+Celine Dion
+Wild Cherry
+Pet Shop Boys
+Tom Hazelton
+# ALBUMS
+Thriller
+Tom's Favourite Tunes
+Classics
+# SONG-ALBUM PAIRS
+D:\IntelliJ IDEA\AP\MusicApp\src\1.mp3
+Thriller
+D:\IntelliJ IDEA\AP\MusicApp\src\2.mp3
+Thriller
+D:\IntelliJ IDEA\AP\MusicApp\src\3.mp3
+Thriller
+D:\IntelliJ IDEA\AP\MusicApp\src\4.mp3
+Tom's Favourite Tunes
+D:\IntelliJ IDEA\AP\MusicApp\src\5.mp3
+Tom's Favourite Tunes
+D:\IntelliJ IDEA\AP\MusicApp\src\6.mp3
+Classics
+# SONG-ARTIST PAIRS
+D:\IntelliJ IDEA\AP\MusicApp\src\1.mp3
+Michael Jackson
+D:\IntelliJ IDEA\AP\MusicApp\src\2.mp3
+Michael Jackson
+D:\IntelliJ IDEA\AP\MusicApp\src\3.mp3
+Michael Jackson
+D:\IntelliJ IDEA\AP\MusicApp\src\4.mp3
+Joe Henderson
+D:\IntelliJ IDEA\AP\MusicApp\src\5.mp3
+The Tokens
+D:\IntelliJ IDEA\AP\MusicApp\src\5.mp3
+Tom Hazelton
+D:\IntelliJ IDEA\AP\MusicApp\src\6.mp3
+Celine Dion
+D:\IntelliJ IDEA\AP\MusicApp\src\7.mp3
+Wild Cherry
+D:\IntelliJ IDEA\AP\MusicApp\src\8.mp3
+Pet Shop Boys
+D:\IntelliJ IDEA\AP\MusicApp\src\8.mp3
+Tom Hazelton
+# EOF
