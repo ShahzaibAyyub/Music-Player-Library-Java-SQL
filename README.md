@@ -28,4 +28,4 @@ You need to have JDK installed with a preferred compiler (I'm using IntelliJ Ide
 * R8 - Add songs to and remove them from albums.
 * R9 - Play a Song
 
-### Feel free to use this Food App and make changes as you wish. Thanks and Happy Coding!
+### Feel free to use this App and make changes as you wish. Thanks and Happy Coding!
